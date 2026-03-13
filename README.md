@@ -1,7 +1,7 @@
 # Kingdom Rush 王国保卫战 Cocos2D 引擎 Android 版修补指南
 本指南适用于王国保卫战复仇，使用 Cocos2D 引擎开发的作品
 
-对于使用 Love2D 的王国保卫战、前线、起源、联盟，请参考 https://github.com/coldshineb/KingdomRushLove2DPatch
+对于使用 Love2D 的王国保卫战、前线、起源、联盟，请参考 [KingdomRushLove2DPatch](https://github.com/coldshineb/KingdomRushLove2DPatch)
 
 本指南旨在对 Android 版进行修补，以实现与 PC 版相同的游戏体验，本仓库的示例代码基于复仇 1.16.06
 
