@@ -37,13 +37,13 @@
 
 * 拦截 `public static purchase(Ljava/lang/String;)V`
 
-**4. 离线价格标签**
+**2. 离线价格标签**
 
 为了让游戏能够在没有 GMS 框架的设备上完美运行，需要删除内购价格获取相关代码
 
 * 重写 `public static getProductPrice(Ljava/lang/String;)Ljava/lang/String;`, `public static getProductPriceValue(Ljava/lang/String;)F`
 
-**5. Play Pass 订阅欺骗**
+**3. Play Pass 订阅欺骗**
 
 当设备上存在拥有 Play Pass 订阅的账号时，游戏会自动关闭所有弹出式广告、解锁全部 DLC、英雄、塔，并删除钻石内购，实现与 PC 版一致的游戏体验
 
